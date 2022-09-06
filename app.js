@@ -1,4 +1,3 @@
-<!DOCTYPE html>
-<html lang="en" dir="ltr">
-    <head>
-        <meta charset="utf-8"
+const computerChoice = document.getElementById('computer-choice')
+const userChoice = document.getElementById('user-choice')
+const resultDisplay = document.getElementById('result')
